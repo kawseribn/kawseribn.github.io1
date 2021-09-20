@@ -180,7 +180,7 @@ th {
   padding: 0;
 }
 
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+/* Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
   :after,
@@ -4738,8 +4738,8 @@ button.close {
 }
 body {
   background-image: -webkit-linear-gradient(top, #ff0060, #ff6975);
-  background-image: -o-linear-gradient(top, #ff0060 0, #ff6975 100%);
-  background-image: linear-gradient(180deg, #ff0060 0, #ff6975);
+  background-image: -o-linear-gradient(top, #17a589 0, #ff6975 100%);
+  background-image: linear-gradient(180deg, #66999b 0, #138d75);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFF0060",endColorstr="#FFFF6975",GradientType=0);
 }
